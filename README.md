@@ -1,5 +1,3 @@
-# RNA-e-Deep-Learning---CESAR-School-2025.01
-
 # 🧾 Informações do Autor
 
 | **Campo** | **Informação** |
